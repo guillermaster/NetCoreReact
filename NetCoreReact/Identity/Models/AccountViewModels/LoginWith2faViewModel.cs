@@ -4,7 +4,7 @@ using System.ComponentModel.DataAnnotations;
 using System.Linq;
 using System.Threading.Tasks;
 
-namespace NetCoreReact.Models.AccountViewModels
+namespace NetCoreReact.Identity.Models.AccountViewModels
 {
     public class LoginWith2faViewModel
     {

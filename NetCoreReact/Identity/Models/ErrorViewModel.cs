@@ -1,6 +1,6 @@
 using System;
 
-namespace NetCoreReact.Models
+namespace NetCoreReact.Identity.Models
 {
     public class ErrorViewModel
     {

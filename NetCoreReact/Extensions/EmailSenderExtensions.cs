@@ -1,9 +1,6 @@
-using System;
-using System.Collections.Generic;
-using System.Linq;
 using System.Text.Encodings.Web;
 using System.Threading.Tasks;
-using NetCoreReact.Services;
+using NetCoreReact.Identity.Services;
 
 namespace NetCoreReact.Services
 {

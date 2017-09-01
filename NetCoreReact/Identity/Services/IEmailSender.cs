@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
 
-namespace NetCoreReact.Services
+namespace NetCoreReact.Identity.Services
 {
     public interface IEmailSender
     {

@@ -1,10 +1,6 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Diagnostics;
-using System.Linq;
-using System.Threading.Tasks;
+﻿using System.Diagnostics;
 using Microsoft.AspNetCore.Mvc;
-using NetCoreReact.Models;
+using NetCoreReact.Identity.Models;
 
 namespace NetCoreReact.Controllers
 {

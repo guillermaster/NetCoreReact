@@ -3,7 +3,6 @@ C:\Users\admin\Documents\Visual Studio 2017\Projects\NetCoreReact\NetCoreReact\b
 C:\Users\admin\Documents\Visual Studio 2017\Projects\NetCoreReact\NetCoreReact\bin\Debug\netcoreapp2.0\NetCoreReact.runtimeconfig.dev.json
 C:\Users\admin\Documents\Visual Studio 2017\Projects\NetCoreReact\NetCoreReact\bin\Debug\netcoreapp2.0\NetCoreReact.dll
 C:\Users\admin\Documents\Visual Studio 2017\Projects\NetCoreReact\NetCoreReact\bin\Debug\netcoreapp2.0\NetCoreReact.pdb
-C:\Users\admin\Documents\Visual Studio 2017\Projects\NetCoreReact\NetCoreReact\obj\Debug\netcoreapp2.0\NetCoreReact.csprojResolveAssemblyReference.cache
 C:\Users\admin\Documents\Visual Studio 2017\Projects\NetCoreReact\NetCoreReact\obj\Debug\netcoreapp2.0\NetCoreReact.csproj.CoreCompileInputs.cache
 C:\Users\admin\Documents\Visual Studio 2017\Projects\NetCoreReact\NetCoreReact\obj\Debug\netcoreapp2.0\UserSecretsAssemblyInfo.cs
 C:\Users\admin\Documents\Visual Studio 2017\Projects\NetCoreReact\NetCoreReact\obj\Debug\netcoreapp2.0\NetCoreReact.AssemblyInfoInputs.cache

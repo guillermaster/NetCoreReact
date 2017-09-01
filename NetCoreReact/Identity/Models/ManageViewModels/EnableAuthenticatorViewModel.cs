@@ -5,7 +5,7 @@ using System.ComponentModel.DataAnnotations;
 using System.Linq;
 using System.Threading.Tasks;
 
-namespace NetCoreReact.Models.ManageViewModels
+namespace NetCoreReact.Identity.Models.ManageViewModels
 {
     public class EnableAuthenticatorViewModel
     {
