@@ -5,6 +5,11 @@
     <UserSecretsId>aspnet-NetCoreReact-F7AF152B-C583-481A-84D1-1EDAE329BFF0</UserSecretsId>
   </PropertyGroup>
 
+  <ItemGroup>
+    <None Remove="Frontend\Homepage\Components\Demo\Demo.tsx" />
+    <None Remove="Frontend\Homepage\index.tsx" />
+  </ItemGroup>
+
 
   <ItemGroup>
     <PackageReference Include="Microsoft.AspNetCore.All" Version="2.0.0" />
@@ -16,6 +21,11 @@
     <DotNetCliToolReference Include="Microsoft.EntityFrameworkCore.Tools.DotNet" Version="2.0.0" />
     <DotNetCliToolReference Include="Microsoft.Extensions.SecretManager.Tools" Version="2.0.0" />
     <DotNetCliToolReference Include="Microsoft.VisualStudio.Web.CodeGeneration.Tools" Version="2.0.0" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <TypeScriptCompile Include="Frontend\Homepage\Components\Demo\Demo.tsx" />
+    <TypeScriptCompile Include="Frontend\Homepage\index.tsx" />
   </ItemGroup>
 
 </Project>
