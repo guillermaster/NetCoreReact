@@ -10,10 +10,10 @@ using Microsoft.AspNetCore.Mvc;
 using Microsoft.AspNetCore.Mvc.Rendering;
 using Microsoft.Extensions.Logging;
 using Microsoft.Extensions.Options;
-using NetCoreReact.Identity.Models;
-using NetCoreReact.Identity.Models.AccountViewModels;
+using NetCoreReact.DataAccess.Identity.Models;
+using NetCoreReact.DataAccess.Identity.Models.AccountViewModels;
 using NetCoreReact.Services;
-using NetCoreReact.Identity.Services;
+using NetCoreReact.DataAccess.Identity.Services;
 
 namespace NetCoreReact.Controllers
 {

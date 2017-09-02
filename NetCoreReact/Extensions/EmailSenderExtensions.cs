@@ -1,6 +1,6 @@
 using System.Text.Encodings.Web;
 using System.Threading.Tasks;
-using NetCoreReact.Identity.Services;
+using NetCoreReact.DataAccess.Identity.Services;
 
 namespace NetCoreReact.Services
 {

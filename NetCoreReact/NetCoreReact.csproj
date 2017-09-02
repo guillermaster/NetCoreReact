@@ -26,6 +26,10 @@
   </ItemGroup>
 
   <ItemGroup>
+    <ProjectReference Include="..\NetCoreReact.DataAccess\NetCoreReact.DataAccess.csproj" />
+  </ItemGroup>
+
+  <ItemGroup>
     <TypeScriptCompile Include="Frontend\Homepage\Components\Demo\Demo.tsx" />
     <TypeScriptCompile Include="Frontend\Homepage\index.tsx" />
   </ItemGroup>

@@ -4,10 +4,10 @@ using Microsoft.EntityFrameworkCore;
 using Microsoft.AspNetCore.Hosting;
 using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
-using NetCoreReact.Data;
-using NetCoreReact.Identity.Models;
-using NetCoreReact.Identity.Services;
 using Microsoft.AspNetCore.SpaServices.Webpack;
+using NetCoreReact.DataAccess;
+using NetCoreReact.DataAccess.Identity.Models;
+using NetCoreReact.DataAccess.Identity.Services;
 
 namespace NetCoreReact
 {

@@ -1,6 +1,6 @@
 ﻿using System.Diagnostics;
 using Microsoft.AspNetCore.Mvc;
-using NetCoreReact.Identity.Models;
+using NetCoreReact.DataAccess.Identity.Models;
 
 namespace NetCoreReact.Controllers
 {
