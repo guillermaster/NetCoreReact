@@ -7,6 +7,7 @@ using Microsoft.Extensions.DependencyInjection;
 using NetCoreReact.Data;
 using NetCoreReact.Identity.Models;
 using NetCoreReact.Identity.Services;
+using Microsoft.AspNetCore.SpaServices.Webpack;
 
 namespace NetCoreReact
 {
@@ -43,6 +44,12 @@ namespace NetCoreReact
                 app.UseDeveloperExceptionPage();
                 app.UseBrowserLink();
                 app.UseDatabaseErrorPage();
+                // Add WebpackDevMiddleware:
+                app.UseWebpackDevMiddleware(new WebpackDevMiddlewareOptions
+                {
+                    HotModuleReplacement = true,
+                    ReactHotModuleReplacement = true
+                });
             }
             else
             {

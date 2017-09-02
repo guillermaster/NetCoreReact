@@ -8,28 +8,31 @@
   },
   "author": "Guillermo Pincay",
   "license": "ISC",
-  "dependencies": {
+  "dependencies": {       
+    "bootstrap": "^3.3.7",          
+    "jquery": "^3.2.1",    
+    "react": "^15.6.1",
+    "react-dom": "^15.6.1"    
+  },
+  "devDependencies": {
+    "@types/react": "^16.0.5",
+    "@types/react-dom": "^15.5.4",
+    "aspnet-webpack": "^2.0.1",
+    "aspnet-webpack-react": "^3.0.0",
     "awesome-typescript-loader": "^3.2.3",
     "babel-core": "^6.26.0",
     "babel-loader": "^7.1.2",
     "babel-preset-es2015": "^6.24.1",
     "babel-preset-react": "^6.24.1",
-    "bootstrap": "^3.3.7",
     "css-loader": "^0.28.7",
     "extract-text-webpack-plugin": "^3.0.0",
     "file-loader": "^0.11.2",
-    "jquery": "^3.2.1",
     "node-sass": "^4.5.3",
-    "react": "^15.6.1",
-    "react-dom": "^15.6.1",
     "sass-loader": "^6.0.6",
     "style-loader": "^0.18.2",
-    "url-loader": "^0.5.9"
-  },
-  "devDependencies": {
-    "@types/react": "^16.0.5",
-    "@types/react-dom": "^15.5.4",
+    "url-loader": "^0.5.9",
     "typescript": "^2.5.2",
-    "webpack": "^3.5.5"
+    "webpack": "^3.5.5",
+    "webpack-hot-middleware": "^2.18.2"
   }
 }
