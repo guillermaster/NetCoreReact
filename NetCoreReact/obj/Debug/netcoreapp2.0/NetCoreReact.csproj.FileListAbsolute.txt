@@ -9,3 +9,15 @@ C:\Users\admin\Documents\Visual Studio 2017\Projects\NetCoreReact\NetCoreReact\o
 C:\Users\admin\Documents\Visual Studio 2017\Projects\NetCoreReact\NetCoreReact\obj\Debug\netcoreapp2.0\NetCoreReact.AssemblyInfo.cs
 C:\Users\admin\Documents\Visual Studio 2017\Projects\NetCoreReact\NetCoreReact\obj\Debug\netcoreapp2.0\NetCoreReact.dll
 C:\Users\admin\Documents\Visual Studio 2017\Projects\NetCoreReact\NetCoreReact\obj\Debug\netcoreapp2.0\NetCoreReact.pdb
+C:\Users\Guillermo\Documents\Visual Studio 2017\Projects\NetCoreReact\NetCoreReact\obj\Debug\netcoreapp2.0\NetCoreReact.csprojResolveAssemblyReference.cache
+C:\Users\Guillermo\Documents\Visual Studio 2017\Projects\NetCoreReact\NetCoreReact\obj\Debug\netcoreapp2.0\NetCoreReact.dll
+C:\Users\Guillermo\Documents\Visual Studio 2017\Projects\NetCoreReact\NetCoreReact\obj\Debug\netcoreapp2.0\NetCoreReact.pdb
+C:\Users\Guillermo\Documents\Visual Studio 2017\Projects\NetCoreReact\NetCoreReact\bin\Debug\netcoreapp2.0\NetCoreReact.deps.json
+C:\Users\Guillermo\Documents\Visual Studio 2017\Projects\NetCoreReact\NetCoreReact\bin\Debug\netcoreapp2.0\NetCoreReact.runtimeconfig.json
+C:\Users\Guillermo\Documents\Visual Studio 2017\Projects\NetCoreReact\NetCoreReact\bin\Debug\netcoreapp2.0\NetCoreReact.runtimeconfig.dev.json
+C:\Users\Guillermo\Documents\Visual Studio 2017\Projects\NetCoreReact\NetCoreReact\bin\Debug\netcoreapp2.0\NetCoreReact.dll
+C:\Users\Guillermo\Documents\Visual Studio 2017\Projects\NetCoreReact\NetCoreReact\bin\Debug\netcoreapp2.0\NetCoreReact.pdb
+C:\Users\Guillermo\Documents\Visual Studio 2017\Projects\NetCoreReact\NetCoreReact\obj\Debug\netcoreapp2.0\NetCoreReact.csproj.CoreCompileInputs.cache
+C:\Users\Guillermo\Documents\Visual Studio 2017\Projects\NetCoreReact\NetCoreReact\obj\Debug\netcoreapp2.0\UserSecretsAssemblyInfo.cs
+C:\Users\Guillermo\Documents\Visual Studio 2017\Projects\NetCoreReact\NetCoreReact\obj\Debug\netcoreapp2.0\NetCoreReact.AssemblyInfoInputs.cache
+C:\Users\Guillermo\Documents\Visual Studio 2017\Projects\NetCoreReact\NetCoreReact\obj\Debug\netcoreapp2.0\NetCoreReact.AssemblyInfo.cs
