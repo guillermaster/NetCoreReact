@@ -5,7 +5,11 @@ VisualStudioVersion = 15.0.26730.12
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "NetCoreReact", "NetCoreReact\NetCoreReact.csproj", "{91BFC0B2-7C94-4ADB-8E06-1EBE6979FBC5}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NetCoreReact.DataAccess", "NetCoreReact.DataAccess\NetCoreReact.DataAccess.csproj", "{5047CA77-4DF1-44C0-96A2-95351C249433}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "NetCoreReact.DataAccess", "NetCoreReact.DataAccess\NetCoreReact.DataAccess.csproj", "{5047CA77-4DF1-44C0-96A2-95351C249433}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NetCoreReact.Contract", "NetCoreReact.Contract\NetCoreReact.Contract.csproj", "{AFDBB53E-E56C-4DC4-94C6-3D68AF762F17}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NetCoreReact.Services", "NetCoreReact.Services\NetCoreReact.Services.csproj", "{EBD35D44-AADE-43BF-8AEA-6C7455D6EF79}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,6 +25,14 @@ Global
 		{5047CA77-4DF1-44C0-96A2-95351C249433}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{5047CA77-4DF1-44C0-96A2-95351C249433}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{5047CA77-4DF1-44C0-96A2-95351C249433}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AFDBB53E-E56C-4DC4-94C6-3D68AF762F17}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AFDBB53E-E56C-4DC4-94C6-3D68AF762F17}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AFDBB53E-E56C-4DC4-94C6-3D68AF762F17}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AFDBB53E-E56C-4DC4-94C6-3D68AF762F17}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EBD35D44-AADE-43BF-8AEA-6C7455D6EF79}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EBD35D44-AADE-43BF-8AEA-6C7455D6EF79}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EBD35D44-AADE-43BF-8AEA-6C7455D6EF79}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EBD35D44-AADE-43BF-8AEA-6C7455D6EF79}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

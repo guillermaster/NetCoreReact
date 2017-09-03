@@ -8,6 +8,10 @@ using Microsoft.AspNetCore.SpaServices.Webpack;
 using NetCoreReact.DataAccess;
 using NetCoreReact.DataAccess.Identity.Models;
 using NetCoreReact.DataAccess.Identity.Services;
+using NetCoreReact.Contract.Repositories;
+using NetCoreReact.DataAccess.Repositories;
+using NetCoreReact.Contract.Services;
+using NetCoreReact.Services.Services;
 
 namespace NetCoreReact
 {
@@ -32,6 +36,9 @@ namespace NetCoreReact
 
             // Add application services.
             services.AddTransient<IEmailSender, EmailSender>();
+
+            services.AddScoped<IProjectsRepository, ProjectsRepository>();
+            services.AddScoped<IProjectsService, ProjectsService>();
 
             services.AddMvc();
         }

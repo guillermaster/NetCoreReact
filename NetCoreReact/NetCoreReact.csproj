@@ -26,7 +26,9 @@
   </ItemGroup>
 
   <ItemGroup>
+    <ProjectReference Include="..\NetCoreReact.Contract\NetCoreReact.Contract.csproj" />
     <ProjectReference Include="..\NetCoreReact.DataAccess\NetCoreReact.DataAccess.csproj" />
+    <ProjectReference Include="..\NetCoreReact.Services\NetCoreReact.Services.csproj" />
   </ItemGroup>
 
   <ItemGroup>

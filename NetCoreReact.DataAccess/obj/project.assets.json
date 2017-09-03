@@ -1285,6 +1285,16 @@
         "compile": {
           "ref/netstandard1.3/System.Threading.Tasks.dll": {}
         }
+      },
+      "NetCoreReact.Contract/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v2.0",
+        "compile": {
+          "bin/placeholder/NetCoreReact.Contract.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/NetCoreReact.Contract.dll": {}
+        }
       }
     }
   },
@@ -4131,6 +4141,11 @@
         "ref/xamarintvos10/_._",
         "ref/xamarinwatchos10/_._"
       ]
+    },
+    "NetCoreReact.Contract/1.0.0": {
+      "type": "project",
+      "path": "../NetCoreReact.Contract/NetCoreReact.Contract.csproj",
+      "msbuildProject": "../NetCoreReact.Contract/NetCoreReact.Contract.csproj"
     }
   },
   "projectFileDependencyGroups": {
@@ -4141,7 +4156,8 @@
       "Microsoft.EntityFrameworkCore.SqlServer >= 2.0.0",
       "Microsoft.EntityFrameworkCore.SqlServer.Design >= 1.1.2",
       "Microsoft.EntityFrameworkCore.Tools >= 2.0.0",
-      "Microsoft.NETCore.App >= 2.0.0"
+      "Microsoft.NETCore.App >= 2.0.0",
+      "NetCoreReact.Contract >= 1.0.0"
     ]
   },
   "packageFolders": {
@@ -4176,7 +4192,11 @@
       },
       "frameworks": {
         "netcoreapp2.0": {
-          "projectReferences": {}
+          "projectReferences": {
+            "C:\\Users\\Guillermo\\Documents\\Visual Studio 2017\\Projects\\NetCoreReact\\NetCoreReact.Contract\\NetCoreReact.Contract.csproj": {
+              "projectPath": "C:\\Users\\Guillermo\\Documents\\Visual Studio 2017\\Projects\\NetCoreReact\\NetCoreReact.Contract\\NetCoreReact.Contract.csproj"
+            }
+          }
         }
       },
       "warningProperties": {

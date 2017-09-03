@@ -28,7 +28,9 @@
           "Microsoft.EntityFrameworkCore.Tools": "2.0.0",
           "Microsoft.NETCore.App": "2.0.0",
           "Microsoft.VisualStudio.Web.CodeGeneration.Design": "2.0.0",
-          "NetCoreReact.DataAccess": "1.0.0"
+          "NetCoreReact.Contract": "1.0.0",
+          "NetCoreReact.DataAccess": "1.0.0",
+          "NetCoreReact.Services": "1.0.0"
         },
         "runtime": {
           "NetCoreReact.dll": {}
@@ -4082,6 +4084,14 @@
           "lib/netstandard1.3/Microsoft.WindowsAzure.Storage.dll": {}
         }
       },
+      "NetCoreReact.Contract/1.0.0": {
+        "runtime": {
+          "NetCoreReact.Contract.dll": {}
+        },
+        "compile": {
+          "NetCoreReact.Contract.dll": {}
+        }
+      },
       "NetCoreReact.DataAccess/1.0.0": {
         "dependencies": {
           "Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore": "2.0.0",
@@ -4089,13 +4099,26 @@
           "Microsoft.EntityFrameworkCore": "2.0.0",
           "Microsoft.EntityFrameworkCore.SqlServer": "2.0.0",
           "Microsoft.EntityFrameworkCore.SqlServer.Design": "1.1.2",
-          "Microsoft.EntityFrameworkCore.Tools": "2.0.0"
+          "Microsoft.EntityFrameworkCore.Tools": "2.0.0",
+          "NetCoreReact.Contract": "1.0.0"
         },
         "runtime": {
           "NetCoreReact.DataAccess.dll": {}
         },
         "compile": {
           "NetCoreReact.DataAccess.dll": {}
+        }
+      },
+      "NetCoreReact.Services/1.0.0": {
+        "dependencies": {
+          "NetCoreReact.Contract": "1.0.0",
+          "NetCoreReact.DataAccess": "1.0.0"
+        },
+        "runtime": {
+          "NetCoreReact.Services.dll": {}
+        },
+        "compile": {
+          "NetCoreReact.Services.dll": {}
         }
       },
       "Microsoft.NETCore.App/2.0.0": {
@@ -6424,7 +6447,17 @@
       "path": "windowsazure.storage/8.1.4",
       "hashPath": "windowsazure.storage.8.1.4.nupkg.sha512"
     },
+    "NetCoreReact.Contract/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
     "NetCoreReact.DataAccess/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "NetCoreReact.Services/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

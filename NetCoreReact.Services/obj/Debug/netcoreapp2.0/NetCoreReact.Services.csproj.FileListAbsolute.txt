@@ -1,0 +1,13 @@
+C:\Users\Guillermo\Documents\Visual Studio 2017\Projects\NetCoreReact\NetCoreReact.Services\obj\Debug\netcoreapp2.0\NetCoreReact.Services.csproj.CoreCompileInputs.cache
+C:\Users\Guillermo\Documents\Visual Studio 2017\Projects\NetCoreReact\NetCoreReact.Services\obj\Debug\netcoreapp2.0\NetCoreReact.Services.AssemblyInfoInputs.cache
+C:\Users\Guillermo\Documents\Visual Studio 2017\Projects\NetCoreReact\NetCoreReact.Services\obj\Debug\netcoreapp2.0\NetCoreReact.Services.AssemblyInfo.cs
+C:\Users\Guillermo\Documents\Visual Studio 2017\Projects\NetCoreReact\NetCoreReact.Services\bin\Debug\netcoreapp2.0\NetCoreReact.Services.deps.json
+C:\Users\Guillermo\Documents\Visual Studio 2017\Projects\NetCoreReact\NetCoreReact.Services\bin\Debug\netcoreapp2.0\NetCoreReact.Services.dll
+C:\Users\Guillermo\Documents\Visual Studio 2017\Projects\NetCoreReact\NetCoreReact.Services\bin\Debug\netcoreapp2.0\NetCoreReact.Services.pdb
+C:\Users\Guillermo\Documents\Visual Studio 2017\Projects\NetCoreReact\NetCoreReact.Services\bin\Debug\netcoreapp2.0\NetCoreReact.Contract.dll
+C:\Users\Guillermo\Documents\Visual Studio 2017\Projects\NetCoreReact\NetCoreReact.Services\bin\Debug\netcoreapp2.0\NetCoreReact.DataAccess.dll
+C:\Users\Guillermo\Documents\Visual Studio 2017\Projects\NetCoreReact\NetCoreReact.Services\bin\Debug\netcoreapp2.0\NetCoreReact.Contract.pdb
+C:\Users\Guillermo\Documents\Visual Studio 2017\Projects\NetCoreReact\NetCoreReact.Services\bin\Debug\netcoreapp2.0\NetCoreReact.DataAccess.pdb
+C:\Users\Guillermo\Documents\Visual Studio 2017\Projects\NetCoreReact\NetCoreReact.Services\obj\Debug\netcoreapp2.0\NetCoreReact.Services.csprojResolveAssemblyReference.cache
+C:\Users\Guillermo\Documents\Visual Studio 2017\Projects\NetCoreReact\NetCoreReact.Services\obj\Debug\netcoreapp2.0\NetCoreReact.Services.dll
+C:\Users\Guillermo\Documents\Visual Studio 2017\Projects\NetCoreReact\NetCoreReact.Services\obj\Debug\netcoreapp2.0\NetCoreReact.Services.pdb
