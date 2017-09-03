@@ -24,6 +24,7 @@ namespace NetCoreReact.DataAccess
             // For example, you can rename the ASP.NET Identity table names and more.
             // Add your customizations after calling base.OnModelCreating(builder);
             builder.Entity<Project>().HasKey(x => x.Id);
+            builder.Entity<Project>().Property(x => x.Name).IsRequired();
         }
     }
 }
